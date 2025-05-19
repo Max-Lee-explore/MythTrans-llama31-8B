@@ -39,9 +39,11 @@ Whether you're a **researcher**, **mythology enthusiast**, or simply fascinated 
 
 ---
 
-## 🔗 Try the Model on Hugging Face
+## 🔗 Download the Model
 
-👉 [**Run it on Hugging Face**](https://huggingface.co/Maxkillor/MythTrans_llama318B)
+👉 [**Download from Hugging Face**](https://huggingface.co/Maxkillor/MythTrans_llama318B)
+
+> 💡 **Recommended**: Use [LM Studio](https://lmstudio.ai/) to run the model locally. It provides an intuitive interface and efficient inference.
 
 ---
 
