@@ -1,3 +1,5 @@
+# 🌟 MythTrans_llama318B
+
 ---
 license: cc-by-nc-4.0
 tags:
@@ -15,7 +17,6 @@ pipeline_tag: translation
   <img src="./images/shanhaijing-banner.png" alt="Shan Hai Jing Model Banner" width="500">
 </p>
 
-# 🌟 MythTrans_llama318B
 ### *Unleashing the power of AI to breathe life into mythical creatures in Classical Chinese*
 
 **MythTrans_llama318B** is a fine-tuned LLaMA 3.1 8B model that specializes in translating English descriptions of mythical beasts into elegant **Classical Chinese**, inspired by the legendary **Classic of Mountains and Seas (山海經)**.
